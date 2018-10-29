@@ -13,7 +13,7 @@ var balance=(accountNum)=>{
 // var withdraw=(amount)=>{
 //     for(let accounts of data)
 //     if( accounts.accountNo === accountNo){
-    
+
 //       var amt= data1[account].balance-amount;
 //      return console.log(amt);
        
